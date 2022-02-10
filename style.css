@@ -1,0 +1,23 @@
+#main_Menu{
+    height: 100%;
+    text-align: center;
+    padding-top: 250px;
+    background-color: #1c1c1b;
+}
+
+#play_Btn{
+    width: 800px;
+    height: 200px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#game_Area{
+    display: none;
+    border-color: cornflowerblue;
+    border-style: ridge;
+    border-width: 10px;
+    background-color: #1c1c1b;
+    width: 100%;
+    height: 100%;
+}
